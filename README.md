@@ -11,7 +11,7 @@ To get started with this portfolio template, follow these steps:
 2. **Clone the Repository**: Clone the forked repository to your local machine using the following command:
 
     ```bash
-    git clone https://github.com/your-username/minimal-react-portfolio.git
+    git clone https://github.com/your-username/ReactPort.git
     ```
 
 3. **Install Dependencies**: Navigate to the cloned directory and install the necessary dependencies using npm:
