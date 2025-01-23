@@ -2,9 +2,9 @@ import React from 'react'
 
 const Skills = () => {
     const skills = {
-        programmingLanguages: ["JavaScript", "Java", "C", "Python(Basic)", "PHP"],
+        programmingLanguages: ["JavaScript", "Java", "C", "Python", "PHP","C#(Basics)"],
         tools: ["Git", "GitHub"],
-        frameworksAndLibraries: ["Tailwind CSS", "React", "Laravel"]
+        frameworksAndLibraries: ["Tailwind CSS", "ReactJs", "Laravel","NextJs","Django"]
     };
 
     return (

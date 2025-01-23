@@ -4,6 +4,7 @@ import Skills from "./components/Skills"
 import xyp from "./assets/xyp.jpeg"
 import Projects from "./components/Projects"
 import Socials from "./components/Socials"
+import Certifications from "./components/Certifications"
 
 export default function App() {
   return (
@@ -15,7 +16,7 @@ export default function App() {
               Bivek Nepal
             </h1>
             <p>
-              Software Engineer | <span className="font-bold">LishnuTech</span>
+              Software Engineer 
             </p>
             <p>Hola👋</p>
             <p className="text-justify max-w-prose">
@@ -26,7 +27,7 @@ export default function App() {
           </div>
           <img
             src={xyp}
-            alt="Bhaskar Rijal"
+            alt="Bivek Nepal"
             className="object-cover w-auto h-32 md:w-32 md:h-auto grayscale"
             width={300}
             height={300}
@@ -38,6 +39,7 @@ export default function App() {
         <Education /><br />
         <Projects /><br />
         <Socials /><br />
+        <Certifications /><br />
         <div className="flex flex-col gap-4">
           <h2 className="text-2xl font-medium">Contact</h2>
           <ul className="list-inside">

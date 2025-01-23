@@ -5,7 +5,7 @@ const Experience = () => {
         {
             type: ' Software Development Intern',
             company: 'Lishnu Tech',
-            date: 'June 2024- Present'
+            date: 'May 2024-November 2024 '
         },
         {
             type: 'Coding Teacher',

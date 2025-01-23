@@ -14,6 +14,10 @@ const Socials = () => {
             title: 'LinkedIn',
             url: 'https://www.linkedin.com/in/bivek-nepal-080899263/'
         },
+        {
+            title: 'Leetcode',
+            url: 'https://leetcode.com/u/Bivek08/'
+        },
 
     ]
     return (
